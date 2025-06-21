@@ -37,6 +37,11 @@ Pagination is handled **locally** and/or **via API**, depending on the mode.
 
 ## 🖼️ UI Screenshots
 
+![Simulator Screenshot - iPhone 16 Pro Max - 2025-06-21 at 22 11 51](https://github.com/user-attachments/assets/244e1090-b39e-43fd-af77-7960184ff444)
+![Simulator Screenshot - iPhone 16 Pro Max - 2025-06-21 at 22 11 59](https://github.com/user-attachments/assets/9ee09008-d4ea-4864-b49b-aa0d413def98)
+![Simulator Screenshot - iPhone 16 Pro Max - 2025-06-21 at 22 12 18](https://github.com/user-attachments/assets/320131a9-b652-4527-8591-866824bb5df9)
+
+
 ## ⚖️ Trade-offs & Assumptions
 
 - **No authentication** implemented to keep focus on core features
